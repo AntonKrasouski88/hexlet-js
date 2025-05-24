@@ -1,0 +1,22 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Node.js package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/AntonKrasouski88/hexlet-js.git"
+  },
+  "author": "Anton Krasovski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonKrasouski88/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/AntonKrasouski88/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

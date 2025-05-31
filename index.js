@@ -1,5 +1,6 @@
-// Import library lodash
-import _ from "lodash";
+import getLastElement from "./src/index.js";
 
 console.log("Hello, Hexlet!");
-console.log(_.last(["one", "two"]));
+let elements = ["one", "two"];
+let result = getLastElement(elements);
+console.log(result);
